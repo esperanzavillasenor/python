@@ -1,2 +1,2 @@
 # python
-what i do in with python
+what i do with python
